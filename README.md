@@ -11,7 +11,7 @@ Este sistema oferece diversas funcionalidades para gerenciamento de uma bibliote
 - **Empréstimos e Devoluções**: Administrar empréstimos e devoluções de livros.
 
 ## Como usar 
-Aqui você pode descrever como utilizar o sistema:
+
 
 1. Passo 1: Fazer download do arquivo.exe
 2. Passo 2: executar o arquivo .exe
